@@ -6,3 +6,10 @@ body {
 	background-color: #4c5760;
 	/*color: #66635b;*/
 }
+
+.list {
+	background-color: #ecc48b;
+	padding: 10px;
+	margin-left: 20px;
+	display: inline-block;
+}
