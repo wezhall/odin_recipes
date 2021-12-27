@@ -1,4 +1,4 @@
-.header1 {
+.header1,  {
 	color: #d7ceb2;
 }
 
@@ -12,4 +12,9 @@ body {
 	padding: 10px;
 	margin-left: 20px;
 	display: inline-block;
+}
+
+.imag {
+	display: flex;
+	justify-content: center;
 }
