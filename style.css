@@ -2,6 +2,10 @@
 	border: 2px solid red;
 }
 
+a {
+	text-decoration: none;
+}
+
 .header1 {
 	color: #d7ceb2;
 	display: flex;
