@@ -1,5 +1,5 @@
 * {
-	border: 2px solid red;
+	border: 0px solid red;
 }
 
 a {
@@ -48,4 +48,10 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.indexlist {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
