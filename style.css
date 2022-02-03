@@ -15,6 +15,7 @@ a {
 	margin:  20px;
 	padding: 10px;
 	background-color: #ecc48b;
+	-webkit-text-stroke: 1px black;
 }
 
 body {
