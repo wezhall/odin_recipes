@@ -62,3 +62,12 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+h4 {
+	color: #3c1414;
+	-webkit-text-stroke: 1px black;
+}
+
+.inlist li {
+	font-weight: bold;
+}
