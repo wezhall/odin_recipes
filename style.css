@@ -1,7 +1,7 @@
-/** {
-	border: 0px solid red;
+* {
+	border: 2px solid red;
 }
-*/
+
 a {
 	text-decoration: none;
 	color: #4c5760;
@@ -70,7 +70,6 @@ body {
   flex: 1;
   display: flex;
   padding: 32px;
-  flex-wrap: wrap;
 }
 
 ul {
@@ -95,4 +94,7 @@ ul {
   text-align: center;
   justify-content: center;
   flex-direction: column;
+  flex-wrap: wrap;
+  gap: 10px;
+  max-width: 10px;
 }
