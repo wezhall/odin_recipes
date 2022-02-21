@@ -39,6 +39,8 @@ h4 {
 
 .inlist li {
 	font-weight: bold;
+	display: flex;
+	flex-direction: row;
 }
 
 .bodydesc {
@@ -101,7 +103,7 @@ ul {
 	display: flex;
   justify-content: center;
   text-align: center;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 img {
@@ -111,4 +113,5 @@ img {
 
 hr {
 	width: 50%;
+	margin-top: 10px;
 }
