@@ -1,6 +1,6 @@
-* {
+/** {
 	border: 2px solid red;
-}
+}*/
 
 a {
 	text-decoration: none;
@@ -84,7 +84,7 @@ ul {
 }
 
 .card {
-  /*border: 1px solid #eee;*/
+  border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   padding: 16px;
@@ -92,7 +92,7 @@ ul {
   width: 300px;
   display: flex;
   align-items: center;
-  max-height: 400px;
+  max-height: 392px;
   justify-content: space-between;
   flex-direction: column;
 }
