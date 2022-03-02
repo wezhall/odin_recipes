@@ -37,3 +37,8 @@ img {
   padding: 16px;
   background-color: #eeeeee;
 }
+
+.footer a {
+	text-decoration: none;
+	color: #4c5760;
+}
